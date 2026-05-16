@@ -1,4 +1,4 @@
-# 🌌 3D SOLAR SYSTEM
+# 🌌Milky-Way-Space-Engine
 
 What if you could hold the universe inside your browser?
 
@@ -10,7 +10,8 @@ As glowing planets orbit around the Sun and stars stretch endlessly across deep 
 
 ## 🚀 EXPERIENCE FEATURES
 
-✨ Real-time 3D Solar System
+✨ Real-time Milky-Way-Space-Engine
+
 🪐 Smooth orbital animations
 ☀️ Cinematic glowing Sun
 🌌 Massive dynamic starfield
