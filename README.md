@@ -85,6 +85,9 @@ Space is not just something we observe.
 It is something we imagine.
 
 This project is an attempt to turn imagination into an interactive universe.
+<img width="1919" height="1041" alt="Image" src="https://github.com/user-attachments/assets/5a6da367-e3bb-4cd5-b188-076fb85058cb" />
+
+<img width="1919" height="1059" alt="Image" src="https://github.com/user-attachments/assets/858be2b0-672c-4a09-aab0-6eacbe594fff" />
 
 
 # React + Vite
