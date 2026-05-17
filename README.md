@@ -86,6 +86,12 @@ Space is not just something we observe.
 It is something we imagine.
 
 This project is an attempt to turn imagination into an interactive universe.
+<img width="1851" height="1064" alt="Image" src="https://github.com/user-attachments/assets/736b71f0-f651-448e-8798-c2efd3c3f0d4" />
+
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/1da91c51-d166-48f5-b0fc-c482370d5e00" />
+
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/ccef5e41-a869-4d57-8e5a-ef643666211f" />
+
 <img width="1903" height="1031" alt="Image" src="https://github.com/user-attachments/assets/591c3576-5452-4b6a-8351-c2e06f177c35" />
 
 <img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/e7844b9a-2ef7-47f3-92d5-29883a03e37b" />
